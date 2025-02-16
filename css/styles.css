@@ -996,6 +996,8 @@ box-shadow: 0 1px 6px 0 rgba(46, 47, 66, 0.08);
 }
 
 .footer-container {
+    justify-content: initial;
+    align-items: initial;
    column-gap: 24px;
 }
 
